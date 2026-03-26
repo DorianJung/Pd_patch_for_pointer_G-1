@@ -5,3 +5,5 @@ Th pd version I used was 0.56.2 and the following libraries are necessary to run
 - comport
 - cyclone
 - FluidCorpusManipulation
+
+![Image1](https://github.com/user-attachments/assets/4a28dc39-c1f8-4987-92e3-356913420f2e)

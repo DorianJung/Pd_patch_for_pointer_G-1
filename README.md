@@ -6,6 +6,8 @@ The Pd version I used was 0.56.2 and the following libraries are necessary to ru
 - cyclone
 - FluidCorpusManipulation
 
+1. Clone the repository. 2. Ensure all libraries are installed via Deken. 3. Open _main.pd
+
 This is the device that's running the patch. A separate repository is coming soon.
 
 ![Image1](https://github.com/user-attachments/assets/4a28dc39-c1f8-4987-92e3-356913420f2e)

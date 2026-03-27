@@ -10,7 +10,7 @@ As this patch is custom made for my specific Raspberry Pi 5 setup, the playabili
 1. Ensure all libraries are installed via Deken
 2. Open _main.pd
 3. Change the devicename for the comport object to your device
-4. Output values from a microcontroller should be between 0 and 1022
+4. Output values from a microcontroller should be between 0 and 1022 (otherwise the code I used is included in the files)
 5. Make sure you are running on a sample rate of 44.1khz
 
 
